@@ -4,10 +4,10 @@ Desktop application for putting reference images over screen for digital art or 
 
 [download](https://github.com/AlexAndguladze/Referno/raw/main/Referno%20v1.0.0.zip)  
   
-### How to use
-**Move an image** - drag with left click
-**Close image** - right click
-**Resize image** - drag "grip" icon on bottom right corner of window
+### How to use  
+**Move an image** - drag with left click  
+**Close image** - right click  
+**Resize image** - drag "grip" icon on bottom right corner of window  
  
 ### Add  
 ![alt text](https://github.com/AlexAndguladze/Referno/blob/main/Images/Add_icon.png?raw=true)  
