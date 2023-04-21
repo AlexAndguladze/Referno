@@ -11,7 +11,7 @@ Desktop application for putting reference images over screen for digital art or 
  
 ### Add  
 ![alt text](https://github.com/AlexAndguladze/Referno/blob/main/Images/Add_icon.png?raw=true)  
-Opens image saved on clippboard on your desktop  **Supports transparent backgrounds**
+Opens image saved on clippboard on your desktop  **Supports transparent backgrounds**  
 <sub>copy image on clippboard from google or any other webiste</sub>
   
 ### Ghost Mode  
